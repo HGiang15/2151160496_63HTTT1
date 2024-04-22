@@ -11,12 +11,6 @@ public class Test {
 
         EmployeeList listEmployee = new EmployeeList();
         int select = 0;
-//        git init
-//        git add README.md
-//        git commit -m "first commit"
-//        git branch -M main
-//        git remote add origin https://github.com/HGiang15/2151160496_63HTTT1.git
-//        git push -u origin main
         do {
             System.out.println("------------------ Lựa chọn ------------------");
             System.out.println("-----> Vui lòng chọn chức năng bên dưới (1, 2, 3, 4 0)");
