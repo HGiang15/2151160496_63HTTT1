@@ -2,13 +2,11 @@ package test;
 
 import main.Employee;
 import main.EmployeeList;
-
 import java.util.Scanner;
 
 public class Test {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-
         EmployeeList listEmployee = new EmployeeList();
         int select = 0;
         do {
